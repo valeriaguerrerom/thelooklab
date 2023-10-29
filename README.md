@@ -29,13 +29,13 @@ El objetivo del sitio web es ayudar a las personas a sentirse más seguras y her
 
 ## Instrucciones para Clonar y Ejecutar el Proyecto
 
-### Requisitos Previoss
+### Requisitos Previosss
 
 - Navegador web (como Chrome o Firefox)
 
-### Instalación
+### Instalaciónnn
 
 1. Clona este repositorio en tu máquina local utilizando Git:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/valeriaguerrerom/thelooklab
