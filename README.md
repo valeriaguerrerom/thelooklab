@@ -1,6 +1,6 @@
 ![Logo](https://thelooklab.ca/cdn/shop/files/OpenGraph.png?v=1639186507)
 
-# The Look Lab
+# THE LOOK LAB
 
 ## Desarrollo de Sitio Web con Bootstrap, CSS y HTML
 
@@ -29,7 +29,7 @@ El objetivo del sitio web es ayudar a las personas a sentirse más seguras y her
 
 ## Instrucciones para Clonar y Ejecutar el Proyecto
 
-### Requisitos Previos
+### Requisitos Previoss
 
 - Navegador web (como Chrome o Firefox)
 
