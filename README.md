@@ -29,7 +29,7 @@ El objetivo del sitio web es ayudar a las personas a sentirse más seguras y her
 
 ## Instrucciones para Clonar y Ejecutar el Proyecto
 
-### Requisitos Previos
+### Requisitos Previoss
 
 - Navegador web (como Chrome o Firefox)
 
